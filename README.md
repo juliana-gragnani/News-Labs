@@ -21,9 +21,9 @@ Download the "Article-Devices.csv" from this Github repository. Place it in the 
 
 Besides that, we'll only need:
 
-import pandas as pd
-import numpy as np
-from pandas import DataFrame
+* import pandas as pd
+* import numpy as np
+* from pandas import DataFrame
 
 
 ## Author
