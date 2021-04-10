@@ -9,8 +9,8 @@ For this exercise, BBC News Labs selected a dataset of page views for a single a
 
 We have to answer two questions:
 
-# Question 1 - Output the percentage of people visiting the page via a mobile phone or a tablet device
-# Question 2 - Generate a text file containing a table listing the mean number of total page views during each hourly time period
+* Question 1 - Output the percentage of people visiting the page via a mobile phone or a tablet device
+* Question 2 - Generate a text file containing a table listing the mean number of total page views during each hourly time period
 
 
 ### Installing
